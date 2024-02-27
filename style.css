@@ -1,0 +1,24 @@
+.navbar {
+    background-color: transparent; /* Initial background color */
+    padding: 10px;
+    cursor: pointer; /* So it looks clickable */
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+  
+  
+  .overpass_font{
+  font-family: "Overpass", sans-serif;
+  }
+  .montserrat_font{
+    font-family: "Montserrat", sans-serif;
+  }
+  .playfair_font{
+  font-family: "Playfair Display", serif;
+  }
+  .cormorant_font{
+  font-family: "Cormorant", serif;
+  }
+  .roboto{
+    font-family: "Roboto Mono", monospace;
+  }
